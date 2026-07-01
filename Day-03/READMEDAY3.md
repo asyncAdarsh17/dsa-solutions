@@ -2,7 +2,8 @@ today we studied about arrays and linked list
 
 # Arrays : Array is a fixed sized collection of elements of the same data type stored in contiguous memory locations 
 
-Memory Address:   100     104     108     112     116
+Memory Address: 
+                    100     104     108     112     116
                  +-------+-------+-------+-------+-------+
 Array:           |  5    |  8    |  12   |  3    |  9    |
                  +-------+-------+-------+-------+-------+
@@ -35,6 +36,6 @@ ________________________________________________________________________________
     ^ Random Memory Locations (Not Continuous)   
 
 
-    
+
 
 
